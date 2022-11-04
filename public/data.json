@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "title": "laravel",
+        "posted_by": "Ahmed",
+        "creation_date": "2022-10-22"
+    },
+    {
+        "id": 2,
+        "title": "PHP deep dive",
+        "posted_by": "Mohamed",
+        "creation_date": "2022-10-15"
+    }
+]
